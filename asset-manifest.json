@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReelRollApp/static/css/main.07dd2d96.chunk.css",
+    "main.js": "/ReelRollApp/static/js/main.c3d6f2a4.chunk.js",
+    "main.js.map": "/ReelRollApp/static/js/main.c3d6f2a4.chunk.js.map",
+    "runtime-main.js": "/ReelRollApp/static/js/runtime-main.a1db4b75.js",
+    "runtime-main.js.map": "/ReelRollApp/static/js/runtime-main.a1db4b75.js.map",
+    "static/js/2.68f4b4b7.chunk.js": "/ReelRollApp/static/js/2.68f4b4b7.chunk.js",
+    "static/js/2.68f4b4b7.chunk.js.map": "/ReelRollApp/static/js/2.68f4b4b7.chunk.js.map",
+    "static/js/3.c1e45b7b.chunk.js": "/ReelRollApp/static/js/3.c1e45b7b.chunk.js",
+    "static/js/3.c1e45b7b.chunk.js.map": "/ReelRollApp/static/js/3.c1e45b7b.chunk.js.map",
+    "index.html": "/ReelRollApp/index.html",
+    "static/css/main.07dd2d96.chunk.css.map": "/ReelRollApp/static/css/main.07dd2d96.chunk.css.map",
+    "static/js/2.68f4b4b7.chunk.js.LICENSE.txt": "/ReelRollApp/static/js/2.68f4b4b7.chunk.js.LICENSE.txt",
+    "static/media/Hero5.caa31c9b.png": "/ReelRollApp/static/media/Hero5.caa31c9b.png",
+    "static/media/ll.b7d65aa3.mp4": "/ReelRollApp/static/media/ll.b7d65aa3.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1db4b75.js",
+    "static/js/2.68f4b4b7.chunk.js",
+    "static/css/main.07dd2d96.chunk.css",
+    "static/js/main.c3d6f2a4.chunk.js"
+  ]
+}
