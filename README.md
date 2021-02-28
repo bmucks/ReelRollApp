@@ -1,6 +1,6 @@
 # ReelRollApp
 Jiu-Jitsu platform for instructors to upload their video database for student's benefit.
-Built with React, Axios, Express, and MongoDb.
+Built with React, Axios, Express, and Firebase.
 Still in development so routes only work on dev server. 
 CSS will be revamped to make it more scaleable.
 
