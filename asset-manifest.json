@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ReelRollApp/static/css/main.e8acef99.chunk.css",
-    "main.js": "/ReelRollApp/static/js/main.2878ec18.chunk.js",
-    "main.js.map": "/ReelRollApp/static/js/main.2878ec18.chunk.js.map",
+    "main.css": "/ReelRollApp/static/css/main.9435ca75.chunk.css",
+    "main.js": "/ReelRollApp/static/js/main.79a7d623.chunk.js",
+    "main.js.map": "/ReelRollApp/static/js/main.79a7d623.chunk.js.map",
     "runtime-main.js": "/ReelRollApp/static/js/runtime-main.410ee3bf.js",
     "runtime-main.js.map": "/ReelRollApp/static/js/runtime-main.410ee3bf.js.map",
     "static/js/2.249c7534.chunk.js": "/ReelRollApp/static/js/2.249c7534.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.edd41174.chunk.js": "/ReelRollApp/static/js/3.edd41174.chunk.js",
     "static/js/3.edd41174.chunk.js.map": "/ReelRollApp/static/js/3.edd41174.chunk.js.map",
     "index.html": "/ReelRollApp/index.html",
-    "static/css/main.e8acef99.chunk.css.map": "/ReelRollApp/static/css/main.e8acef99.chunk.css.map",
+    "static/css/main.9435ca75.chunk.css.map": "/ReelRollApp/static/css/main.9435ca75.chunk.css.map",
     "static/js/2.249c7534.chunk.js.LICENSE.txt": "/ReelRollApp/static/js/2.249c7534.chunk.js.LICENSE.txt",
     "static/media/Hero7.6d2b85be.png": "/ReelRollApp/static/media/Hero7.6d2b85be.png"
   },
   "entrypoints": [
     "static/js/runtime-main.410ee3bf.js",
     "static/js/2.249c7534.chunk.js",
-    "static/css/main.e8acef99.chunk.css",
-    "static/js/main.2878ec18.chunk.js"
+    "static/css/main.9435ca75.chunk.css",
+    "static/js/main.79a7d623.chunk.js"
   ]
 }
