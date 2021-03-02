@@ -2,7 +2,7 @@
 Jiu-Jitsu platform for instructors to upload their video database for student's benefit.
 Built with React, Axios, Express, and Firebase.
 Still in development so routes only work on dev server, but there is a Github deployment as well. 
-CSS will be revamped to make it more scaleable.
+CSS will be revamped to make it more scaleable. Check out the Youtube below to see what it currently looks like on my dev server.
 
 3/2/21
 Updated CSS. Getting deployment issues, will fix tomorrow.
