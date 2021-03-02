@@ -7,9 +7,6 @@ CSS will be revamped to make it more scaleable.
 3/2/21
 Updated CSS. Getting deployment issues, will fix tomorrow.
 
- https://www.youtube.com/watch?v=HDFR0eQwEWE&feature=youtu.be .
-
-
 2/26/21 .Updated the video demo showing some of the new features that include dynamic upload and retreival from Firebase server here https://www.youtube.com/watch?v=HDFR0eQwEWE&feature=youtu.be .
 
   Current live demo still needs to be updated to reflect latest changes. 
