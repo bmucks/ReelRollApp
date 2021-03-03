@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/ReelRollApp/static/css/main.9435ca75.chunk.css",
-    "main.js": "/ReelRollApp/static/js/main.79a7d623.chunk.js",
-    "main.js.map": "/ReelRollApp/static/js/main.79a7d623.chunk.js.map",
-    "runtime-main.js": "/ReelRollApp/static/js/runtime-main.410ee3bf.js",
-    "runtime-main.js.map": "/ReelRollApp/static/js/runtime-main.410ee3bf.js.map",
-    "static/js/2.249c7534.chunk.js": "/ReelRollApp/static/js/2.249c7534.chunk.js",
-    "static/js/2.249c7534.chunk.js.map": "/ReelRollApp/static/js/2.249c7534.chunk.js.map",
-    "static/js/3.edd41174.chunk.js": "/ReelRollApp/static/js/3.edd41174.chunk.js",
-    "static/js/3.edd41174.chunk.js.map": "/ReelRollApp/static/js/3.edd41174.chunk.js.map",
+    "main.css": "/ReelRollApp/static/css/main.55f281db.chunk.css",
+    "main.js": "/ReelRollApp/static/js/main.b945fa6e.chunk.js",
+    "main.js.map": "/ReelRollApp/static/js/main.b945fa6e.chunk.js.map",
+    "runtime-main.js": "/ReelRollApp/static/js/runtime-main.09f4b465.js",
+    "runtime-main.js.map": "/ReelRollApp/static/js/runtime-main.09f4b465.js.map",
+    "static/js/2.b1d8b864.chunk.js": "/ReelRollApp/static/js/2.b1d8b864.chunk.js",
+    "static/js/2.b1d8b864.chunk.js.map": "/ReelRollApp/static/js/2.b1d8b864.chunk.js.map",
+    "static/js/3.15e9ec60.chunk.js": "/ReelRollApp/static/js/3.15e9ec60.chunk.js",
+    "static/js/3.15e9ec60.chunk.js.map": "/ReelRollApp/static/js/3.15e9ec60.chunk.js.map",
     "index.html": "/ReelRollApp/index.html",
-    "static/css/main.9435ca75.chunk.css.map": "/ReelRollApp/static/css/main.9435ca75.chunk.css.map",
-    "static/js/2.249c7534.chunk.js.LICENSE.txt": "/ReelRollApp/static/js/2.249c7534.chunk.js.LICENSE.txt",
-    "static/media/Hero7.6d2b85be.png": "/ReelRollApp/static/media/Hero7.6d2b85be.png"
+    "static/css/main.55f281db.chunk.css.map": "/ReelRollApp/static/css/main.55f281db.chunk.css.map",
+    "static/js/2.b1d8b864.chunk.js.LICENSE.txt": "/ReelRollApp/static/js/2.b1d8b864.chunk.js.LICENSE.txt",
+    "static/media/Hero7.43047e52.png": "/ReelRollApp/static/media/Hero7.43047e52.png",
+    "static/media/Hero8.20b83e1b.png": "/ReelRollApp/static/media/Hero8.20b83e1b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.410ee3bf.js",
-    "static/js/2.249c7534.chunk.js",
-    "static/css/main.9435ca75.chunk.css",
-    "static/js/main.79a7d623.chunk.js"
+    "static/js/runtime-main.09f4b465.js",
+    "static/js/2.b1d8b864.chunk.js",
+    "static/css/main.55f281db.chunk.css",
+    "static/js/main.b945fa6e.chunk.js"
   ]
 }
